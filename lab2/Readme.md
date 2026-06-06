@@ -1,8 +1,8 @@
 #LAB 2: Lexical Analyzer for Token Recognition Using Flex (Lex)
 
 ##Objective
-->To understand the concept of lexical analysis and implement a Flex (Lex) program to convert source code into tokens.
-->To identify and classify different tokens such as keywords, identifiers, numbers, operators, and separators from input code.
+-To understand the concept of lexical analysis and implement a Flex (Lex) program to convert source code into tokens.
+-To identify and classify different tokens such as keywords, identifiers, numbers, operators, and separators from input code.
 
 ##Theory
 Lexical Analysis is the first phase of a compiler. It reads the source code character by character and 
